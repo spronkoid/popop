@@ -3,12 +3,16 @@
 make a popop cat or baby automatically for any sound file
 
 (can be modified to work with any sets of images)
-
+all of the code is in the notebook, google colab link: [here](https://colab.research.google.com/drive/1hQx2qYxgWe0xjfEEN3JtNHLXk3cHmCKv?usp=sharing) 
 
 
 [here's an example](example1.mp4)
 
-all of the code is in the notebook, google colab link: [here](https://colab.research.google.com/drive/1hQx2qYxgWe0xjfEEN3JtNHLXk3cHmCKv?usp=sharing) 
+here are the images used
+
+
+![cat](/imgs/open.png)
+![baby](/imgs/b_open.png)
 
 
 
