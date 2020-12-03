@@ -6,13 +6,7 @@ make a popop cat automatically for any sound file
 
 
 
-example:
-
-```
-[![example video](https://img.youtube.com/vi/xXYOFVP85Gs/0.jpg)](http://www.youtube.com/watch?v=xXYOFVP85Gs)
-```
-
-
+[here's an example](example1.mp4)
 
 all of the code is in the notebook, google colab link: [here](https://colab.research.google.com/drive/1I3qkewr_9jCfuZ2UgwvoIg8CZNCO2FSY?usp=sharing) 
 
