@@ -1,6 +1,6 @@
 # autopop
 
-make a popop cat automatically for any sound file
+make a popop cat or baby automatically for any sound file
 
 (can be modified to work with any sets of images)
 
